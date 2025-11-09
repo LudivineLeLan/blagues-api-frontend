@@ -7,9 +7,12 @@
 # Blagues Frontend
 
 Une landing page interactive qui affiche une **blague aléatoire** à chaque clic sur le bouton.  
-Les blagues proviennent de l’API (https://blagues-api-backend.onrender.com).
+Les blagues proviennent de l’API [blagues-api-backend](https://blagues-api-backend.onrender.com).
 
 ---
+
+## Aperçu 
+[https://ludivinelelan.github.io/blagues-api-frontend/](https://ludivinelelan.github.io/blagues-api-frontend/)
 
 ## Fonctionnalités
 
@@ -32,7 +35,7 @@ Les blagues proviennent de l’API (https://blagues-api-backend.onrender.com).
 ```bash
 # 1. Cloner le repo
 git clone https://github.com/LudivineLeLan/blagues-frontend.git
-cd blagues-frontend
+cd blagues-api-frontend
 
 # 2. Lancer localement
 Ouvrir index.html dans le navigateur ou avec Live Server
