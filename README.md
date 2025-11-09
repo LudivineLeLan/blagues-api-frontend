@@ -3,7 +3,6 @@
 
 ## **README – Frontend (`blagues-frontend`)**
 
-```markdown
 # Blagues Frontend
 
 Une landing page interactive qui affiche une **blague aléatoire** à chaque clic sur le bouton.  
