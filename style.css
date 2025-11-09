@@ -1,0 +1,40 @@
+body {
+  background-color: #04df79;
+  color: #e60b4d;
+  text-align: center;
+  padding: 50px;
+}
+
+main {
+  max-width: 500px;
+  margin: auto;
+  background: #00ccff;
+  border-radius: 20px;
+  padding: 30px;
+  box-shadow: 0 4px 10px black;
+}
+
+#joke-container {
+  min-height: 100px;
+  font-size: 1.2em;
+}
+
+#joke{
+  color :blueviolet;
+}
+
+button {
+  background-color: #e60b4d;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 20px;
+  font-size: 1em;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+button:hover {
+  background-color: #b3121a;
+}
